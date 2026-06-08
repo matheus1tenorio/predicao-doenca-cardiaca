@@ -12,6 +12,12 @@ Você pode acessar a aplicação de forma online em: https://predicao-doenca-car
 <img width="953" height="863" alt="Captura de tela 2026-06-08 174317" src="https://github.com/user-attachments/assets/eb40d871-37e2-43f2-99c3-5aa6cfd16f20" />
 <img width="1050" height="860" alt="Captura de tela 2026-06-08 174245" src="https://github.com/user-attachments/assets/799729e5-3481-4552-8baf-ecd8d8496465" />
 
+## Dataset
+
+O conjunto de dados utilizado neste projeto foi obtido no Kaggle:
+
+Soriano, F. (2021). *Heart Failure Prediction Dataset*. Kaggle. Disponível em: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+
 ## Tecnologias Utilizadas
 
 * Python
